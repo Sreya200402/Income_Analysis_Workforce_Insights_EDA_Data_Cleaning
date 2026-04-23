@@ -96,8 +96,9 @@ An interactive Power BI dashboard was created to visualize:
 
 ---
 
-## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+## 📊 Dashboard
+
+👉 [View Dashboard](Dashboard/dashboard.pdf)
 
 ---
 
